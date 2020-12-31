@@ -20,6 +20,8 @@ You should have received a copy of the GNU General Public License along with thi
 See beautiful charts @ Netdata UI :)
 
 ## Tested
+* Netdata version: v1.28.0-51-nightly
+
 * Ubuntu 18.04 (Bionic Beaver)
 * Ubuntu 20.04 (Focal Fossa)
 
